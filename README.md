@@ -7,5 +7,3 @@ A simple Node.js utility to check if a number was ever used by Lionel Messi as h
 ```bash
 npm install messi-jersey-check
 
-
-
