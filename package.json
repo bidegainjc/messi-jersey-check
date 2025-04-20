@@ -1,0 +1,18 @@
+{
+  "name": "messi-jersey-check",
+  "version": "1.0.0",
+  "description": "A simple utility to check if a number was ever used by Lionel Messi as his jersey number (10 or 30)",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "messi",
+    "soccer",
+    "jersey",
+    "football",
+    "number"
+  ],
+  "author": "Juan Cruz Bidegain  bidegain.com.ar juancruz@bidegain.com.ar",
+  "license": "MIT"
+}
